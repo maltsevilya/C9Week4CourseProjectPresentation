@@ -20,6 +20,10 @@ The [application](https://ilyamaltsev.shinyapps.io/fidechessratings/) is designe
 
 The data on [official FIDE page](http://ratings.fide.com/download.phtml) are archived XML files for each month. The files have different structure so they were downloaded, filtered, aggregated to one data file. To reduce amount of data only ratings higher than 2400 were retained.
 
+The source code for the application is available at [my GitHub repository](https://github.com/maltsevilya/C9Week4CourseProjectApplication)
+
+The source code for the presentation is available at [my GitHub repository](https://github.com/maltsevilya/C9Week4CourseProjectPresentation)
+
 Example
 ========================================================
 By default current most rated chess player rating is displayed. You can add another player to compare.
